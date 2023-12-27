@@ -10,13 +10,13 @@ I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate�
   - Full stack developer intern for 3 months at "Logic Research Labs" in Kumbakonam🔮
   - Created an Integrated Dashboard for multispecialty hospitals
 
-    🧱**Tech Stack** : PHP,Bootstrap,HTML,CSS,REST API
+    🔧**Tech Stack** : PHP,Bootstrap,HTML,CSS,REST API
 
 🧿 CogniAI -Coimbatore - Jul-Present 2023
   - Full stack developer intern at "CogniAI" in Coimbatore🔮
   - Worked in revamping patient portal & fixed backend API bugs
     
-    🧱**Tech Stack** : Laravel,Angular,OpenEMR
+    🔧**Tech Stack** : Laravel,Angular,OpenEMR
 
 ⚡ **Certifications**
 
