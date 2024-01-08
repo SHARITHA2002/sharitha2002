@@ -24,9 +24,4 @@ I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate�
 
   - **Responsive Web design** -2022 -FreeCodeCamp
 
-📫 How to reach me?
-
-LinkedIn             : https://www.linkedin.com/in/sharithag/
-
-Sharitha's Portfolio : https://sharithagunasekaran.w3spaces.com/
 
