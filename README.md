@@ -24,4 +24,11 @@ I am looking forward to absorbing knowledge🧠, gain experience 🏭, collabora
 
   - **Responsive Web design** -2022 -FreeCodeCamp
 
+🎖 **Badge**
+<div>
+  <figure>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="PostmanBadge" />
+  </figure>
+</div>
+<p>Postman Badge-2024</p>
 
