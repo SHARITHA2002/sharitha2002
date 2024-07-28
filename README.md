@@ -9,8 +9,19 @@ I am looking forward to absorbing knowledge🧠, gain experience 🏭, collabora
 🧿 Logic Research Labs -Kumbakonam -Jan-Apr 2023
 
 🧿 CogniAI -Coimbatore - Jul 2023-February 2024
+  
+🎖 **Badges**
+<div style="display:flex; align-items:center; gap: 10px;' align='center'">
+<div>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="PostmanBadge" /> 
+    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="ChampionBadge" />
+</div>
 
+⚡ **Certifications**
+  - **NPTEL** -Cloud Computing 2022 -79%
 
+  - **Responsive Web design** -2022 -FreeCodeCamp
+  
 🔧**Tech Stack** : 
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=4)](https://skillicons.dev)
@@ -18,16 +29,4 @@ I am looking forward to absorbing knowledge🧠, gain experience 🏭, collabora
   [![My Skills](https://skillicons.dev/icons?i=laravel,angular,bootstrap&perline=3)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,py,&perline=4)](https://skillicons.dev)
-  
-⚡ **Certifications**
-  - **NPTEL** -Cloud Computing 2022 -79%
-
-  - **Responsive Web design** -2022 -FreeCodeCamp
-
-🎖 **Badges**
-<div style="display:flex; align-items:center; gap: 10px;' align='center'">
-<div>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="PostmanBadge" /> 
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" alt="ChampionBadge" />
-</div>
 
