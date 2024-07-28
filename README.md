@@ -17,12 +17,9 @@ I am looking forward to absorbing knowledge🧠, gain experience 🏭, collabora
 
   [![My Skills](https://skillicons.dev/icons?i=laravel,angular,bootstrap&perline=3)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=2)](https://skillicons.dev)
-
-  [![My Skills](https://skillicons.dev/icons?i=java,py,&perline=2)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,py,&perline=4)](https://skillicons.dev)
   
 ⚡ **Certifications**
-
   - **NPTEL** -Cloud Computing 2022 -79%
 
   - **Responsive Web design** -2022 -FreeCodeCamp
